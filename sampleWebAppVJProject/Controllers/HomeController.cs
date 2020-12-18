@@ -15,7 +15,7 @@ namespace sampleWebAppVJProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Vidhi's page.";
+            ViewBag.Message = "Vidhi's updated page.";
 
             return View();
         }
